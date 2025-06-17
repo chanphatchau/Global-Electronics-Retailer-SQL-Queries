@@ -1,53 +1,56 @@
-# 🌍 Global Electronics Retailer – SQL Analysis
+# 🌍 Global Electronics Retailer – SQL + Tableau Project
 
-This project focuses on deriving business insights from the **Global Electronics Retailer** dataset using SQL. It covers various aspects such as sales performance, delivery efficiency, customer behavior, and product trends.
-
-## 📌 Project Objective
-
-To explore and analyze the operations of a global electronics retailer by writing optimized SQL queries that answer key business questions and support data-driven decision-making.
+This project analyzes the operations of a **global electronics retailer** using SQL and Tableau. It provides insights into sales performance, delivery trends, and customer behavior, and visualizes the findings through an interactive Tableau dashboard.
 
 ---
 
-## 🔧 Tools Used
+## 🎯 Project Objective
+
+To extract, analyze, and visualize business insights from sales data using **SQL** for data querying and **Tableau** for dashboard development, supporting strategic decision-making.
+
+---
+
+## 🧰 Tools & Technologies
 
 - **SQL Server**  
+- **Tableau Public**  
 - **SSMS (SQL Server Management Studio)**  
-- **Excel/CSV files** (as data sources)
+- **Excel / CSV files**
 
 ---
 
 ## 📁 Dataset Overview
 
-The dataset includes multiple tables related to:
-- `Orders` – order ID, dates, shipping info, etc.
-- `Products` – product names, categories, and prices
-- `Customers` – customer demographics and locations
-- `Stores` – geographic regions of physical stores
-- `Shipping` – delivery method and duration
+The dataset includes multiple tables such as:
+
+- `Orders` – sales and delivery data  
+- `Customers` – demographics and geography  
+- `Products` – categories and pricing  
+- `Stores` – physical store locations  
+- `Shipping` – delivery method and performance
 
 ---
 
-## 📊 Key Business Questions Answered
+## 🧠 Key Business Questions Answered
 
-Here are some of the questions tackled using SQL:
+**Using SQL:**
+- Which countries and age groups generate the most revenue?
+- What are the top-selling product categories?
+- How do delivery times vary by month and region?
+- Which stores have the highest average order value?
 
-1. **Which product categories generate the most revenue?**
-2. **How do monthly sales and orders trend over time?**
-3. **Which countries and age groups contribute the most to sales?**
-4. **What is the average delivery time across months?**
-5. **Which stores have the highest average order value?**
-6. **Are repeat customers contributing significantly to revenue?**
+**Using Tableau:**
+- How do monthly sales and order volumes trend over time?
+- Which countries are top performers by revenue?
+- What percentage of sales come from repeat vs one-time customers?
+- Which product categories are most popular across regions?
+
+---
+
+## 📊 Tableau Dashboard Highlights
+
+🔍 **Explore the live dashboard here:** [Tableau Public Link](https://public.tableau.com/app/profile/jamie.chau/viz/GlobalElectronicsRetailer-Visualisation/Dashboard)
 
 ---
 
-## 🧠 Skills Demonstrated
-
-- **Joins (INNER, LEFT)** across multiple tables  
-- **Window functions** (e.g., `ROW_NUMBER`, `RANK`, `PARTITION BY`)  
-- **Aggregation** using `SUM`, `AVG`, `COUNT`  
-- **Date/time functions** for monthly and quarterly analysis  
-- **Common Table Expressions (CTEs)** and **subqueries**  
-- **Performance tuning** with indexed columns and optimized filters
-
----
 
