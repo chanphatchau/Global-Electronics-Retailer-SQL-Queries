@@ -27,7 +27,6 @@ The dataset includes multiple tables such as:
 - `Customers` – demographics and geography  
 - `Products` – categories and pricing  
 - `Stores` – physical store locations  
-- `Shipping` – delivery method and performance
 
 ---
 
