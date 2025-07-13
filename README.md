@@ -39,10 +39,11 @@ The dataset includes multiple tables such as:
 - Which stores have the highest average order value?
 
 **Using Tableau:**
-- How do monthly sales and order volumes trend over time?
-- Which countries are top performers by revenue?
-- What percentage of sales come from repeat vs one-time customers?
-- Which product categories are most popular across regions?
+- How does monthly revenue fluctuate, and which months drive the most sales volume?
+- What are the top and bottom 5 products by revenue and quantity sold?
+- How is customer behavior distributed by age group, loyalty (repeat vs one-time), and value segments?
+- Which countries and store locations perform best in terms of quantity sold, revenue, and median store performance?
+- How do cohort groups behave over time in terms of revenue and retention rate?
 
 ---
 
