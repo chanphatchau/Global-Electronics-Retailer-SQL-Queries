@@ -1,12 +1,12 @@
 # 🌍 Global Electronics Retailer – SQL + Tableau Project
 
-This project analyzes the operations of a **global electronics retailer** using SQL and Tableau. It provides insights into sales performance, delivery trends, and customer behavior, and visualizes the findings through an interactive Tableau dashboard.
+This project analyzes the operations of a **global electronics retailer** using SQL and Tableau. It provides insights into sales performance, delivery trends, and customer behavior, and visualises the findings through an interactive Tableau dashboard.
 
 ---
 
 ## 🎯 Project Objective
 
-To extract, analyze, and visualize business insights from sales data using **SQL** for data querying and **Tableau** for dashboard development, supporting strategic decision-making.
+To extract, analyze, and visualise business insights from sales data using **SQL** for data querying and **Tableau** for dashboard development, supporting strategic decision-making.
 
 ---
 
