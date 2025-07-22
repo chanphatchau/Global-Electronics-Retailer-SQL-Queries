@@ -49,4 +49,4 @@ The dataset includes multiple tables such as:
 
 ## 📊 Tableau Dashboard Highlights
 
-🔍 **Explore the live dashboard here:** [Tableau Public Link](https://public.tableau.com/app/profile/jamie.chau/viz/GlobalElectronicsRetailer-Visualisation/Dashboard)
+🔍 **Explore the live dashboard here:** [Tableau Public Link](https://public.tableau.com/app/profile/jamie.chau/vizzes)
