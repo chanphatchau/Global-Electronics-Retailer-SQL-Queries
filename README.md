@@ -4,6 +4,12 @@ This project analyses the operations of a **global electronics retailer** using 
 
 ---
 
+## 📊 Tableau Dashboard Highlights
+
+🔍 **Explore the live dashboard here:** [Tableau Public Link](https://public.tableau.com/app/profile/jamie.chau/vizzes)
+
+---
+
 ## 🎯 Project Objective
 
 To extract, analyse, and visualise business insights from sales data using **SQL** for data querying and **Tableau** for dashboard development, supporting strategic decision-making.
@@ -44,9 +50,3 @@ The dataset includes multiple tables such as:
 - How is customer behaviour distributed by age group, loyalty (repeat vs one-time), and value segments?
 - Which countries and store locations perform best in terms of quantity sold, revenue, and median store performance?
 - How do cohort groups behave over time in terms of revenue and retention rate?
-
----
-
-## 📊 Tableau Dashboard Highlights
-
-🔍 **Explore the live dashboard here:** [Tableau Public Link](https://public.tableau.com/app/profile/jamie.chau/vizzes)
