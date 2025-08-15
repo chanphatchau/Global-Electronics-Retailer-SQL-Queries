@@ -66,31 +66,31 @@ The dataset includes multiple tables such as:
      
 ## 🔍 Key Insights
 
-**KPI Insights:** ~$55.8M revenue, 197.8K units, 26.3K orders, 11.9K customers.
+- **KPI Insights:** ~$55.8M revenue, 197.8K units, 26.3K orders, 11.9K customers.
+     
+- **Category leaders:** Computers ($19.3M) and Home Appliances ($10.8M) drive most revenue; Games & Toys is the smallest (~$0.7M).
 
-**Category leaders:** Computers ($19.3M) and Home Appliances ($10.8M) drive most revenue; Games & Toys is the smallest (~$0.7M).
+- **Demand volume:** Units strongest in Computers (44.2K) and Cell Phones (31.5K).
 
-**Demand volume:** Units strongest in Computers (44.2K) and Cell Phones (31.5K).
+- **Top products:** Desktop PC variants lead (top item ≈ $505.5K revenue).
 
-**Top products:** Desktop PC variants lead (top item ≈ $505.5K revenue).
+- **Bottom products:** Lighting/fan SKUs (e.g., chandelier, desk lamp, stand fan) sit at the bottom by revenue.
 
-**Bottom products:** Lighting/fan SKUs (e.g., chandelier, desk lamp, stand fan) sit at the bottom by revenue.
+- **Geography — revenue:** United States ≈ $23.8M, United Kingdom ≈ $5.7M, Canada ≈ $3.6M, Australia ≈ $2.1M.
 
-**Geography — revenue:** United States ≈ $23.8M, United Kingdom ≈ $5.7M, Canada ≈ $3.6M, Australia ≈ $2.1M.
+- **Store health:** Median store revenue clusters around the mid‑hundreds‑of‑thousands, useful as a performance benchmark.
 
-**Store health:** Median store revenue clusters around the mid‑hundreds‑of‑thousands, useful as a performance benchmark.
+- **Customer loyalty:** Repeat = 61.18%, One‑time = 38.82%.
 
-**Customer loyalty:** Repeat = 61.18%, One‑time = 38.82%.
+- **Order frequency:** Most customers place 1–2 orders; opportunities exist to move them to 3+.
 
-**Order frequency:** Most customers place 1–2 orders; opportunities exist to move them to 3+.
+- **Age mix:** Largest group is 60+ (5,459 customers); 30–39 and 40–49 bands are similar (~1.7–1.8K each).
 
-**Age mix:** Largest group is 60+ (5,459 customers); 30–39 and 40–49 bands are similar (~1.7–1.8K each).
+- **Value segments:** Low Value (5,265) > High (3,933) > Mid (2,689) customers.
 
-**Value segments:** Low Value (5,265) > High (3,933) > Mid (2,689) customers.
+- **Seasonality:** Peak months near $7.8M / $7.5M; trough around $0.6M.
 
-**Seasonality:** Peak months near $7.8M / $7.5M; trough around $0.6M.
-
-**Delivery data quality:** On‑time 5,108 (20.28%), Late 472 (1.27%), N/A 20,746 (78.45%) → delivery status capture is incomplete.
+- **Delivery data quality:** On‑time 5,108 (20.28%), Late 472 (1.27%), N/A 20,746 (78.45%) → delivery status capture is incomplete.
 
 ## 🛠️ Recommended Actions
 
