@@ -76,11 +76,9 @@ The dataset includes multiple tables such as:
 
      
 ## 🔍 Key Insights
-
-- **KPI Insights:** ~$55.8M revenue, 197.8K units, 26.3K orders, 11.9K customers.
      
 - **Category leaders:** Computers ($19.3M) and Home Appliances ($10.8M) drive most revenue; Games & Toys is the smallest (~$0.7M).
-
+![Category leaders](assets/Key-Insights/category-leaders.png) ![Category leaders](assets/Key-Insights/category-leaders-sql.png)
 - **Demand volume:** Units strongest in Computers (44.2K) and Cell Phones (31.5K).
 
 - **Top products:** Desktop PC variants lead (top item ≈ $505.5K revenue).
