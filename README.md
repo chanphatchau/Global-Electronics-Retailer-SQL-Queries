@@ -53,19 +53,19 @@ The dataset includes multiple tables such as:
    - Top/Bottom Product by Quanity Sold
 
 **2. Sales by Country**
-![Sales by Country](assets/sales-by-country.png)
+![Sales by Country](assets/Dahboard-Pages-&-Visuals/sales-by-country.png)
    - Top Countries Generated Good Revenue
    - Top/Bottom Product by Quanity Sold
 
 **3. Customer Overview**
-![Customer Overview](assets/customers-overview.png)
+![Customer Overview](assets/Dahboard-Pages-&-Visuals/customers-overview.png)
    - Customer Order Frequency
    - Customer Loyalty
    - Customer Value Segment
    - Customer Age Distribution
 
 **4. Customer Cohort Analysis**
-![Cohort Analysis](assets/cohort-analysis.png)
+![Cohort Analysis](assets/Dahboard-Pages-&-Visuals/cohort-analysis.png)
 
      
 ## 🔍 Key Insights
