@@ -119,7 +119,7 @@ The dataset includes multiple tables such as:
 
 - **Seasonality:** Peak months near $7.8M / $7.5M; trough around $0.6M.
 
-![Seasonality](assets/Key-Insights/seasonality.png) ![Seasonality](assets/Key-Insights/seasonality-sql.png)
+![Seasonality](assets/Key-Insights/Seasonality.png) 
 
 - **Delivery data quality:** On‑time 5,108 (20.28%), Late 472 (1.27%), N/A 20,746 (78.45%) → delivery status capture is incomplete.
 
