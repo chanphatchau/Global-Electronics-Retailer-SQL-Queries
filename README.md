@@ -45,8 +45,6 @@ The dataset includes multiple tables such as:
 
 **1. Sale Overview** 
 
-![Sales Dashboard](assets/Dashboard-Pages-&-Visuals/sales-dashboard.png)
-   
    - KPI cards: Total Revenue,  Total Quantity Sold, Total Orders Total Customers
    - Sales over Time: Days/Month/Year with YOY variance
    - Delivery Performance
@@ -54,21 +52,23 @@ The dataset includes multiple tables such as:
    - Top/Bottom Product by Revenue
    - Top/Bottom Product by Quanity Sold
 
+![Sales Dashboard](assets/Dashboard-Pages-&-Visuals/sales-dashboard.png)
+
 **2. Sales by Country**
 
-![Sales by Country](assets/Dashboard-Pages-&-Visuals/sales-by-country.png)
-   
    - Top Countries Generated Good Revenue
    - Top/Bottom Product by Quanity Sold
 
+![Sales by Country](assets/Dashboard-Pages-&-Visuals/sales-by-country.png)
+   
 **3. Customer Overview**
 
-![Customer Overview](assets/Dashboard-Pages-&-Visuals/customers-overview.png)
-   
    - Customer Order Frequency
    - Customer Loyalty
    - Customer Value Segment
    - Customer Age Distribution
+
+![Customer Overview](assets/Dashboard-Pages-&-Visuals/customers-overview.png)
 
 **4. Customer Cohort Analysis**
 
