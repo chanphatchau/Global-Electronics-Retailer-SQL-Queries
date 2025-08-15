@@ -47,7 +47,7 @@ The dataset includes multiple tables such as:
 
 ![Sales Dashboard](assets/Dashboard-Pages-&-Visuals/sales-dashboard.png)
    
-   – KPI cards: Total Revenue,  Total Quantity Sold, Total Orders Total Customers
+   - KPI cards: Total Revenue,  Total Quantity Sold, Total Orders Total Customers
    - Sales over Time: Days/Month/Year with YOY variance
    - Delivery Performance
    - Revenue/Quantity Sold by Category
