@@ -99,7 +99,7 @@ The dataset includes multiple tables such as:
 
 - **Store health:** Median store revenue clusters around the mid‑hundreds‑of‑thousands, useful as a performance benchmark.
 
-![Store health](assets/Key-Insights/store-health.png) ![Store health](assets/Key-Insights/store-health-sql.png)
+![Store health](assets/Key-Insights/store-health.png) ![Store health]
 
 - **Customer loyalty:** Repeat = 61.18%, One‑time = 38.82%.
 
