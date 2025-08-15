@@ -107,7 +107,7 @@ The dataset includes multiple tables such as:
 
 - **Order frequency:** Most customers place 1–2 orders; opportunities exist to move them to 3+.
 
-![Order frequency](assets/Key-Insights/customer-order-frequency.png) ![Order frequency](assets/Key-Insights/customer-order-frequency-sql.png)
+![Order frequency](assets/Key-Insights/order-frequency.png) ![Order frequency](assets/Key-Insights/order-frequency-sql.png)
 
 - **Age mix:** Largest group is 60+ (5,459 customers); 30–39 and 40–49 bands are similar (~1.7–1.8K each).
 
