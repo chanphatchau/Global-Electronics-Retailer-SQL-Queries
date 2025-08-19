@@ -52,14 +52,14 @@ The dataset includes multiple tables such as:
    - Top/Bottom Product by Revenue
    - Top/Bottom Product by Quanity Sold
 
-![Sales Dashboard](assets/Dashboard-Pages-&-Visuals/sales-dashboard.png)
+![Sales Dashboard](assets/Dashboard-Pages-&-Visuals/sales-dashboard-2.png)
 
 **2. Sales by Country**
 
    - Top Countries Generated Good Revenue
    - Top/Bottom Product by Quanity Sold
 
-![Sales by Country](assets/Dashboard-Pages-&-Visuals/sales-by-country.png)
+![Sales by Country](assets/Dashboard-Pages-&-Visuals/sales-by-country-2.png)
    
 **3. Customer Overview**
 
@@ -68,11 +68,11 @@ The dataset includes multiple tables such as:
    - Customer Value Segment
    - Customer Age Distribution
 
-![Customer Overview](assets/Dashboard-Pages-&-Visuals/customers-overview.png)
+![Customer Overview](assets/Dashboard-Pages-&-Visuals/customers-overview-2.png)
 
 **4. Customer Cohort Analysis**
 
-![Cohort Analysis](assets/Dashboard-Pages-&-Visuals/cohort-analysis.png)
+![Cohort Analysis](assets/Dashboard-Pages-&-Visuals/cohort-analysis-2.png)
 
      
 ## 🔍 Key Insights
